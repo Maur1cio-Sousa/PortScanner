@@ -1,5 +1,5 @@
 # 🔍 PortScanner - Ferramenta de Análise de Portas em Python
-Uma ferramenta avançada de scanner de portas desenvolvida em Python para testes de segurança e auditoria de rede. Ideal para profissionais de cybersecurity, pentesters e entusiastas de redes.
+Uma ferramenta de scanner de portas desenvolvida em Python para testes de segurança e auditoria de rede.
 > ⚠️ **AVISO LEGAL**: Use esta ferramenta apenas em redes que você possui ou tem autorização explícita para testar. O uso não autorizado é ilegal.
 
 ## 🚀 Funcionalidades
